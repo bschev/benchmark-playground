@@ -1,0 +1,25 @@
+Benchmark                                            (numberOfValues)  Mode  Cnt        Score        Error  Units
+AverageBenchmark.measureAvgArrayListBigDecimalLoop                100  avgt    6     1924.766 ±     84.071  ns/op
+AverageBenchmark.measureAvgArrayListBigDecimalLoop               1000  avgt    6    20901.099 ±   1201.535  ns/op
+AverageBenchmark.measureAvgArrayListBigDecimalLoop              10000  avgt    6   183604.853 ±   7653.585  ns/op
+AverageBenchmark.measureAvgArrayListBigDecimalLoop             100000  avgt    6  2274826.930 ±  64697.121  ns/op
+AverageBenchmark.measureAvgArrayListLongLoop                      100  avgt    6      172.640 ±      1.306  ns/op
+AverageBenchmark.measureAvgArrayListLongLoop                     1000  avgt    6     2950.922 ±      7.364  ns/op
+AverageBenchmark.measureAvgArrayListLongLoop                    10000  avgt    6    30447.895 ±   3604.842  ns/op
+AverageBenchmark.measureAvgArrayListLongLoop                   100000  avgt    6  1418597.388 ±  21897.841  ns/op
+AverageBenchmark.measureAvgArrayListStream                        100  avgt    6     1051.864 ±     13.746  ns/op
+AverageBenchmark.measureAvgArrayListStream                       1000  avgt    6     6252.844 ±  10694.941  ns/op
+AverageBenchmark.measureAvgArrayListStream                      10000  avgt    6    98377.319 ±   1430.115  ns/op
+AverageBenchmark.measureAvgArrayListStream                     100000  avgt    6  1036868.996 ±   6111.541  ns/op
+AverageBenchmark.measureAvgLinkedListBigDecimalLoop               100  avgt    6     1911.453 ±     23.378  ns/op
+AverageBenchmark.measureAvgLinkedListBigDecimalLoop              1000  avgt    6    20528.806 ±    377.776  ns/op
+AverageBenchmark.measureAvgLinkedListBigDecimalLoop             10000  avgt    6   182889.365 ±   1714.490  ns/op
+AverageBenchmark.measureAvgLinkedListBigDecimalLoop            100000  avgt    6  2292188.369 ±  80348.557  ns/op
+AverageBenchmark.measureAvgLinkedListLongLoop                     100  avgt    6      183.432 ±      6.017  ns/op
+AverageBenchmark.measureAvgLinkedListLongLoop                    1000  avgt    6     4121.772 ±     50.254  ns/op
+AverageBenchmark.measureAvgLinkedListLongLoop                   10000  avgt    6    39973.327 ±    655.689  ns/op
+AverageBenchmark.measureAvgLinkedListLongLoop                  100000  avgt    6  1755619.092 ±  53070.116  ns/op
+AverageBenchmark.measureAvgLinkedListStream                       100  avgt    6      714.974 ±   1185.280  ns/op
+AverageBenchmark.measureAvgLinkedListStream                      1000  avgt    6    10779.304 ±    122.153  ns/op
+AverageBenchmark.measureAvgLinkedListStream                     10000  avgt    6    77379.466 ± 114440.127  ns/op
+AverageBenchmark.measureAvgLinkedListStream                    100000  avgt    6  1199635.688 ± 249291.937  ns/op
