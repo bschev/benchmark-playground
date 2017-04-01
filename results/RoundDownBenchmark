@@ -1,0 +1,6 @@
+Benchmark                                               Mode  Cnt    Score    Error  Units
+RoundDownBenchmark.measureRoundDownBigDecimalScale      avgt    6  567.340 ± 18.520  ns/op
+RoundDownBenchmark.measureRoundDownDecimalFormatDouble  avgt    6  520.696 ± 21.742  ns/op
+RoundDownBenchmark.measureRoundDownDecimalFormatString  avgt    6  483.036 ± 89.860  ns/op
+RoundDownBenchmark.measureRoundDownMath                 avgt    6    5.146 ±  0.437  ns/op
+RoundDownBenchmark.measureRoundDownSimple               avgt    6    3.500 ±  0.274  ns/op
